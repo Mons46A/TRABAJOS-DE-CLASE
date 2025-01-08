@@ -42,3 +42,24 @@ Se crea los códigos:
 - **Room**
 
 **Carpeta:** <ins>UML</ins>
+
+---
+
+## EJERCICIO 5:
+
+La tarea es crear una clase **Articulo** con los atributos: 
+
+- Titulo
+- fecha
+- contenido
+- Autor
+
+Y una clase **Autor** con los atributos:
+- nombre
+- Apellido
+- nacionalidad
+
+Un **Articulo** debe estar ligado a un autor y un **Autor** puede escribir más de un **Articulo**.
+Implementa un metodo para listar todo los articulos de un determinado **Autor**.
+
+**Archivo:** <ins>Articulo.java</ins>
